@@ -11,4 +11,13 @@
 // console.log(undefined<0)
 
 // console.log("2"===2)  
-// strict datatype checking ==> ===
+
+
+//premetive dataType
+
+//  7 types: String , Number,Boolearn,Null,undenfined,symbol BigInt 
+
+// nonPremtive dataType 
+// Array object,Function 
+
+
