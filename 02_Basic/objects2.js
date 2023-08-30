@@ -51,9 +51,9 @@ const navbar=({company})=>{
 }
 navbar(company='hitesh')
 
-[
-    {}
-    {}
-    {}
-    
-]
+// [
+//     {}
+//     {}
+//     {}
+
+// ]
