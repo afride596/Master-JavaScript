@@ -35,6 +35,10 @@ function loginUserMessage(username="afridde"){
             return `welcome ${username}`
             }
               
+              please(){
+                welcome to your pc 
+              }
+              console.log(Hello my name is afride);
 }
 console.log(loginUserMessage());
 
