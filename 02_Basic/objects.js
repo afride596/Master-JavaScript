@@ -11,7 +11,7 @@ const jsuser={
     isloggedin:false,
     "email":"afride@google.com",
     lastLoginday:["monday","friday"]
-
+  
 
 }
 // console.log(jsuser.email);

@@ -19,6 +19,8 @@
 
 for (let index = 1; index <=10; index++) {
     console.log(`Now the table number is ${index}`)
+
+    
     for (let j = 1; j <=10; j++) {
         console.log(`${index} X ${j}=${index*j}`)
 
