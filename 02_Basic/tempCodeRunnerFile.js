@@ -1,3 +1,2 @@
-Object.freeze(jsuser)
-// jsuser.email="ad";
-// console.log(jsuser);
+
+const obj2={3:"c",4:"d"}

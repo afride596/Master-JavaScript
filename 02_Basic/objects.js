@@ -13,15 +13,15 @@ const jsuser = {
   email: "afride@google.com",
   lastLoginday: ["monday", "friday"],
 };  
-// console.log(jsuser.email);
-// console.log(jsuser["email"]);-we can aceess like this also with string
-// console.log(jsuser[mysym]);
+console.log(jsuser.email);
+console.log(jsuser["email"]);//-we can aceess like this also with string
+console.log(jsuser[mysym]);
 
-//it will freeze the object so we can change inside the object
-// Object.freeze(jsuser)
-// jsuser.email="ad";
-// console.log(jsuser);
-//------------------------------------------------------
+// it will freeze the object so we can change inside the object
+Object.freeze(jsuser)
+jsuser.email="ad";
+console.log(jsuser);
+// ---------------------------------------------
 
 //  function in object 
 
